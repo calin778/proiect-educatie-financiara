@@ -1,0 +1,32 @@
+Creditele: DAE, dobanda fixa si dobanda variabila
+
+Cand compari doua credite, dobanda afisata nu este suficienta. Un credit cu
+dobanda mai mica poate fi mai scump daca are comisioane mari de analiza,
+de administrare sau asigurari obligatorii. Indicatorul care include toate
+aceste costuri este DAE - Dobanda Anuala Efectiva.
+
+DAE exprima costul total al creditului, ca procent anual: dobanda plus
+comisioanele si celelalte costuri obligatorii. Bancile sunt obligate prin
+lege sa o afiseze. Regula practica: compara ofertele dupa DAE si dupa suma
+totala de plata, nu dupa dobanda si nici dupa rata lunara.
+
+Dobanda fixa ramane aceeasi pe toata perioada stabilita in contract, deci
+rata lunara este previzibila. Dobanda variabila se compune dintr-un indice
+de referinta (in Romania, pentru creditele noi in lei ale persoanelor
+fizice, de obicei IRCC) plus o marja fixa a bancii. Cand indicele creste,
+creste si rata lunara.
+
+Multe credite ipotecare au o dobanda fixa in primii ani (de exemplu 3 sau 5
+ani), apoi trec la dobanda variabila. Inainte de semnare este important sa
+calculezi cat ar deveni rata daca indicele de referinta ar creste cu 2-3
+puncte procentuale si sa verifici daca bugetul tau ar suporta acea rata.
+
+Perioada creditului influenteaza puternic costul total. O perioada mai
+lunga inseamna o rata lunara mai mica, dar o suma totala de dobanda mult
+mai mare. Rambursarea anticipata (plata in avans a unei parti din credit)
+reduce dobanda totala; verifica in contract daca are comision si cat.
+
+O regula de prudenta folosita frecvent: totalul ratelor lunare nu ar trebui
+sa depaseasca aproximativ o treime din venitul net. Bancile au si ele limite
+legale pentru gradul de indatorare, dar faptul ca banca aproba un credit nu
+inseamna automat ca acel credit este confortabil pentru bugetul tau.

@@ -1,0 +1,29 @@
+Dobanda compusa
+
+Dobanda simpla se calculeaza mereu doar la suma initiala. Dobanda compusa
+se calculeaza la suma initiala plus dobanzile acumulate deja - adica
+"dobanda la dobanda". Pe termen lung, diferenta dintre cele doua devine
+foarte mare.
+
+Exemplu: 10.000 de lei, cu un randament de 7% pe an. Cu dobanda simpla,
+dupa 20 de ani ai 10.000 + 20 x 700 = 24.000 de lei. Cu dobanda compusa,
+suma creste in fiecare an cu 7% din valoarea de atunci si ajunge la aproximativ
+38.700 de lei. Diferenta de aproape 15.000 de lei provine doar din
+reinvestirea castigurilor.
+
+Formula valorii viitoare este: valoare = suma_initiala x (1 + r) la puterea n,
+unde r este randamentul anual (0,07 pentru 7%) si n este numarul de ani.
+In Python: valoare = 10000 * (1 + 0.07) ** 20.
+
+Cel mai important factor este timpul. Doua persoane economisesc aceeasi
+suma lunara: una incepe la 25 de ani, cealalta la 35. La 65 de ani, prima
+are de obicei aproape dublu, desi a depus doar cu 10 ani mai mult. Primii
+ani de economisire au cel mai mult timp sa "lucreze".
+
+Regula lui 72 da o estimare rapida: imparti 72 la randamentul anual in
+procente si obtii aproximativ numarul de ani in care suma se dubleaza. La
+6% pe an, banii se dubleaza in aproximativ 12 ani; la 9%, in aproximativ 8 ani.
+
+Dobanda compusa functioneaza si impotriva ta, in cazul datoriilor. O
+datorie pe cardul de credit, neplatita, creste in acelasi mod - de aceea
+datoriile cu dobanda mare se platesc inaintea oricarei investitii.

@@ -1,0 +1,31 @@
+Cardul de credit si datoriile scumpe
+
+Un card de debit foloseste banii tai, din contul curent. Un card de credit
+foloseste banii bancii: imprumuti o suma pe care trebuie sa o returnezi.
+Diferenta pare mica la plata in magazin, dar are consecinte mari daca
+suma nu este returnata la timp.
+
+Majoritatea cardurilor de credit au o perioada de gratie, de obicei de
+pana la aproximativ 50-56 de zile: daca returnezi integral suma cheltuita
+pana la data scadenta, nu platesti dobanda. Folosit asa, cardul de credit
+poate fi chiar avantajos (puncte, cashback, protectie la cumparaturi).
+
+Problema apare cand platesti doar suma minima. Restul datoriei incepe sa
+produca dobanda, iar dobanzile la cardurile de credit sunt printre cele mai
+mari de pe piata - adesea peste 20% pe an, mult peste un credit de nevoi
+personale sau un credit ipotecar. Platind doar minimul, o datorie mica
+poate dura ani de zile sa fie achitata.
+
+Retragerea de numerar (de la bancomat) cu cardul de credit este de obicei
+cea mai scumpa operatiune: are comision si, de cele mai multe ori, dobanda
+se calculeaza imediat, fara perioada de gratie.
+
+Pentru mai multe datorii, exista doua metode frecvente de rambursare.
+Metoda avalansei: platesti minimul la toate si pui tot restul la datoria cu
+dobanda cea mai mare - economisesti cei mai multi bani. Metoda bulgarelui de
+zapada: pui restul la datoria cea mai mica - o inchizi repede, ceea ce
+ofera motivatie. Ambele functioneaza daca sunt aplicate constant.
+
+Inainte de a investi, datoriile cu dobanda mare se platesc. A rambursa o
+datorie cu dobanda de 25% este echivalent cu un castig garantat de 25% pe
+an - un randament pe care nicio investitie obisnuita nu il poate garanta.
